@@ -34,5 +34,4 @@ public class StudentInformationSystem {
     } else 
         System.out.println("Need more improvement");
     }
-    
-}
+}   
